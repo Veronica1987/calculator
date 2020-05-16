@@ -2,6 +2,7 @@ attrs==19.3.0
 coverage==5.1
 flake8==3.8.1
 importlib-metadata==1.6.0
+manage.py==0.2.10
 mccabe==0.6.1
 more-itertools==8.3.0
 packaging==20.3
